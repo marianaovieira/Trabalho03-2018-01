@@ -26,7 +26,8 @@
             android:label="@string/title_activity_lista_mecanico"
             android:theme="@style/AppTheme.NoActionBar" />
         <activity android:name=".Activity.ItemOficina" />
-        <activity android:name=".Activity.ItemMecanico"></activity>
+        <activity android:name=".Activity.ItemMecanico" />
+        <activity android:name=".Activity.OficinaDetalhe"></activity>
     </application>
 
 </manifest>
