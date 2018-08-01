@@ -39,9 +39,6 @@ public class MainActivity extends AppCompatActivity {
 
     }
 
-
-
-
     private Context getContext(){
         return this;
     }
