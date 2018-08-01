@@ -16,6 +16,14 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+        <activity
+            android:name=".Activity.ListaOficina"
+            android:label="@string/title_activity_lista_oficina"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".Activity.ListaMecanico"
+            android:label="@string/title_activity_lista_mecanico"
+            android:theme="@style/AppTheme.NoActionBar"></activity>
     </application>
 
 </manifest>
